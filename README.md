@@ -10,4 +10,7 @@ Q2)  Given a sorted array with possibly duplicate elements. The task is to find 
 Q3)  Given an array Arr of N elements which is first increasing and then may be decreasing, find the maximum element in the array.
      Note: If the array is increasing then just print then last element will be the maximum value.
 
+Q4)  Given two arrays A and B contains integers of size N and M, the task is to find numbers which are present in the first array, but not present in the second          array.
+
+
 
